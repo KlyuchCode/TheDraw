@@ -1,6 +1,4 @@
-Вот краткая документация по модулю **colorama** для Python:
-
-````markdown name=COLORAMA.md
+markdown name=COLORAMA.md
 # Документация по модулю colorama
 
 **colorama** — это библиотека Python, которая упрощает работу с цветным и стилизованным текстом в терминале. Она делает ваш вывод совместимым с Windows и другими платформами, поддерживающими ANSI escape sequences.
@@ -9,6 +7,7 @@
 
 ```bash
 pip install colorama
+
 ```
 
 ## Быстрый старт
@@ -52,4 +51,3 @@ print(Style.BRIGHT + 'Яркий текст')
 
 - [Документация colorama на PyPI](https://pypi.org/project/colorama/)
 - [Исходный код на GitHub](https://github.com/tartley/colorama)
-````
