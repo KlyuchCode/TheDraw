@@ -1,1 +1,2 @@
-
+colorama
+numpy==2.3.2
